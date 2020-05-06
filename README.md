@@ -1,9 +1,9 @@
-<p align="center"># Laravel 7 with AdminLTE 3</p>
+#<p align="center">Laravel 7 with AdminLTE 3</p>
 
 ## How to use
 
-- Clone the repository with # git # clone
-- Copy # .env.example file to # .env
+- Clone the repository with __git clone__
+- Copy ## .env.example file to # .env
 - Edit database credentials in # .env
 - Run # composer # install
 - Run # php # artisan # key:generate
