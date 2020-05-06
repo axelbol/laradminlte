@@ -1,15 +1,15 @@
-#<p align="center">Laravel 7 with AdminLTE 3</p>
+# Laravel 7 with AdminLTE 3
 
 ## How to use
 
 - Clone the repository with __git clone__
-- Copy ## .env.example file to # .env
-- Edit database credentials in # .env
-- Run # composer # install
-- Run # php # artisan # key:generate
-- Run # php # artisan # migrate
-- Run # php # artisan # serve (if you want to use other port add # --port=90)
-- You can # register by clicking on top-right
+- Copy __.env.example__ file to __.env__
+- Edit database credentials in __.env__
+- Run __composer install__
+- Run __php artisan key:generate__
+- Run __php artisan migrate__
+- Run __php artisan serve__ (if you want to use other port add # __--port=90__)
+- You can __register__ by clicking on top-right
 
 ## License
 
